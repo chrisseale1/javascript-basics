@@ -1,0 +1,9 @@
+#main-color-box {
+  background-color: blue;
+  height: 40px;
+  width: 150px;
+  color: white;
+}
+#para-main {
+  -webkit-user-select: none;
+}
